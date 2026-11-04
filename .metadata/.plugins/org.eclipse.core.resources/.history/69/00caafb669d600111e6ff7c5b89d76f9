@@ -1,0 +1,24 @@
+package loops;
+
+public class Example5 {
+	
+public static void main(String[] args) {
+		
+		int n=456;
+		int rev=0;
+		
+		while(n>0)
+		{
+			int rem=n%10;
+			rev=rev*10+rem;
+			n=n/10;
+		}
+		System.out.println("Reverse is "+rev);
+		
+		if(n==rev)
+			System.out.println("Palindrome");
+		else
+			System.out.println("Not a Palindrome");
+	}
+
+}

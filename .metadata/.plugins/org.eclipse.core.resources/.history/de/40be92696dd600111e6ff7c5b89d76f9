@@ -1,0 +1,14 @@
+package loops;
+
+public class Example6 {
+	
+	public static void main(String[] args) {
+		
+		int n=153;
+		
+		int noOfDigits= String.valueOf(n).length();
+		
+		System.out.println(noOfDigits);
+	}
+
+}

@@ -1,0 +1,36 @@
+package loops;
+
+import java.util.Scanner;
+
+public class Example20 {
+	
+	public static void main(String[] args) {
+		
+		Scanner sc=new Scanner(System.in);
+		
+		int positives=0;
+		int negatives=0;
+		int zeros=0;
+		
+		for(int i=1; i<=5; i++)
+		{
+			
+			System.out.println("Enter number:");
+			int n=sc.nextInt();
+			
+			if(n>0)
+				positives++;
+			else if(n<0)
+				negatives++;
+			else
+				zeros++;
+		}
+		
+		System.out.println("Positives: "+positives);
+		System.out.println("Negatives: "+negatives);
+		System.out.println("Zeros: "+zeros);
+	}
+	
+	
+
+}
