@@ -13,6 +13,7 @@ public class Example14 {
 		for(int i=1; i<=5;i++)
 		{
 			int n= sc.nextInt();
+			
 			if(n>0) {
 				
 				sum=sum+n;

@@ -1,0 +1,10 @@
+package oops;
+
+public class Flight {
+	
+	String flightNumber;
+	String destination;
+	int totalSeats;
+	int availableSeats;
+
+}

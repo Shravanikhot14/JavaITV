@@ -1,0 +1,17 @@
+package oops;
+
+public class Example2 {
+	
+	public static void main(String[] args) {
+		
+		Passenger p1=new Passenger();
+		
+		p1.name="Nisha";
+		p1.email="nisha@gmail.com";
+		p1.age=23;
+		
+		p1.printPassengerDetails();
+		
+	}
+
+}

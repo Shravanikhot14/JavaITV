@@ -1,0 +1,15 @@
+package oops;
+
+public class Example3 {
+
+	public static void main(String[] args) {
+		
+		Calculator calculator = new Calculator();
+		int answer=calculator.add(2, 3);
+		
+		System.out.println("Addition is "+answer);
+		System.out.println("Square is "+answer*answer);
+		System.out.println(answer==100);
+		
+	}
+}

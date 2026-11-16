@@ -1,0 +1,14 @@
+package oops;
+
+public class Employee {
+
+	int id;
+	String name;
+	int salary;
+	
+	Employee()
+	{
+		System.out.println("Employee created");
+	}
+	
+}

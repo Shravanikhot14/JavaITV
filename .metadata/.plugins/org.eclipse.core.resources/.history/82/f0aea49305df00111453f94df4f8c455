@@ -1,0 +1,29 @@
+package arrays;
+
+public class Example9 {
+	
+	public static void main(String[] args) {
+		
+		int a1[][]= {
+				{4,8},
+				{3,7}
+		};
+		
+		int a2[][]= {
+				{1,0},
+				{5,2}
+		};
+		
+		for(int i=0; i<2; i++)
+		{
+			for(int j=0; j<2; j++)
+			{
+				System.out.println(a1[i][j]+a2[i][j]+" ");
+			}
+			
+			System.out.println();
+		}
+		
+	}
+
+}

@@ -1,0 +1,16 @@
+package arrays;
+
+public class Example7 {
+	
+	public static void main(String[] args) {	
+		
+		int marks[][]= {{11,12,14},{15,16,19},{1,20,17}};
+		
+		System.out.println(marks[2][1]);
+			
+			
+
+     }
+}
+
+

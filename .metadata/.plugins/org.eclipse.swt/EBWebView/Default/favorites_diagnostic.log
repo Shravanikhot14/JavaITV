@@ -137,3 +137,143 @@
 2026-11-04 01:46:03.911: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-11-04 01:46:03.911: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
 2026-11-04 03:31:27.831: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-06 01:42:30.612: [INFO] CurrentProfilePath: C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-06 01:42:30.612: [INFO] Profiles total count: 1
+2026-11-06 01:42:30.612: [INFO] Profile: name=Profile 1 path=C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-04T01:46:09.124Z
+2026-11-06 01:42:30.612: [INFO] LastUsedProfileDir: C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-06 01:42:30.612: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-04T01:46:09.124Z
+2026-11-06 01:42:30.612: [INFO] OnDoneLoading sync enabled: 0
+2026-11-06 01:42:30.612: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-06 01:42:30.612: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-06 01:42:30.612: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-06 03:36:07.434: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-06 06:53:45.489: [INFO] CurrentProfilePath: C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-06 06:53:45.489: [INFO] Profiles total count: 1
+2026-11-06 06:53:45.489: [INFO] Profile: name=Profile 1 path=C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-06T03:24:04.816Z
+2026-11-06 06:53:45.489: [INFO] LastUsedProfileDir: C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-06 06:53:45.489: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-06T03:24:04.816Z
+2026-11-06 06:53:45.489: [INFO] OnDoneLoading sync enabled: 0
+2026-11-06 06:53:45.489: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-06 06:53:45.489: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-06 06:53:45.489: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-06 07:02:48.951: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-06 07:22:33.529: [INFO] CurrentProfilePath: C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-06 07:22:33.529: [INFO] Profiles total count: 1
+2026-11-06 07:22:33.529: [INFO] Profile: name=Profile 1 path=C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-06T07:02:48.644Z
+2026-11-06 07:22:33.529: [INFO] LastUsedProfileDir: C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-06 07:22:33.529: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-06T07:02:48.644Z
+2026-11-06 07:22:33.529: [INFO] OnDoneLoading sync enabled: 0
+2026-11-06 07:22:33.529: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-06 07:22:33.529: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-06 07:22:33.529: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-06 07:41:19.006: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-12 01:42:02.410: [INFO] CurrentProfilePath: C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-12 01:42:02.410: [INFO] Profiles total count: 1
+2026-11-12 01:42:02.410: [INFO] Profile: name=Profile 1 path=C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-06T07:02:48.644Z
+2026-11-12 01:42:02.410: [INFO] LastUsedProfileDir: C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-12 01:42:02.410: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-06T07:02:48.644Z
+2026-11-12 01:42:02.410: [INFO] OnDoneLoading sync enabled: 0
+2026-11-12 01:42:02.410: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-12 01:42:02.410: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-12 01:42:02.410: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-12 02:06:41.045: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-12 02:49:02.727: [INFO] CurrentProfilePath: C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-12 02:49:02.727: [INFO] Profiles total count: 1
+2026-11-12 02:49:02.727: [INFO] Profile: name=Profile 1 path=C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T02:06:40.739Z
+2026-11-12 02:49:02.727: [INFO] LastUsedProfileDir: C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-12 02:49:02.727: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T02:06:40.739Z
+2026-11-12 02:49:02.727: [INFO] OnDoneLoading sync enabled: 0
+2026-11-12 02:49:02.727: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-12 02:49:02.727: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-12 02:49:02.727: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-12 03:32:16.639: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-12 15:56:45.348: [INFO] CurrentProfilePath: C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-12 15:56:45.348: [INFO] Profiles total count: 1
+2026-11-12 15:56:45.348: [INFO] Profile: name=Profile 1 path=C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T02:06:40.739Z
+2026-11-12 15:56:45.348: [INFO] LastUsedProfileDir: C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-12 15:56:45.348: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T02:06:40.739Z
+2026-11-12 15:56:45.348: [INFO] OnDoneLoading sync enabled: 0
+2026-11-12 15:56:45.348: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-12 15:56:45.348: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-12 15:56:45.348: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-12 18:48:46.834: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-13 01:40:08.491: [INFO] CurrentProfilePath: C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-13 01:40:08.491: [INFO] Profiles total count: 1
+2026-11-13 01:40:08.491: [INFO] Profile: name=Profile 1 path=C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T15:57:33.538Z
+2026-11-13 01:40:08.491: [INFO] LastUsedProfileDir: C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-13 01:40:08.491: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T15:57:33.538Z
+2026-11-13 01:40:08.491: [INFO] OnDoneLoading sync enabled: 0
+2026-11-13 01:40:08.491: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-13 01:40:08.491: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-13 01:40:08.491: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-13 01:56:56.759: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-13 02:04:43.737: [INFO] CurrentProfilePath: C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-13 02:04:43.737: [INFO] Profiles total count: 1
+2026-11-13 02:04:43.738: [INFO] Profile: name=Profile 1 path=C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-13T01:56:56.452Z
+2026-11-13 02:04:43.738: [INFO] LastUsedProfileDir: C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-13 02:04:43.738: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-13T01:56:56.452Z
+2026-11-13 02:04:43.738: [INFO] OnDoneLoading sync enabled: 0
+2026-11-13 02:04:43.738: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-13 02:04:43.738: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-13 02:04:43.738: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-13 02:04:45.039: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-13 02:05:09.774: [INFO] CurrentProfilePath: C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-13 02:05:09.774: [INFO] Profiles total count: 1
+2026-11-13 02:05:09.774: [INFO] Profile: name=Profile 1 path=C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-13T01:56:56.452Z
+2026-11-13 02:05:09.774: [INFO] LastUsedProfileDir: C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-13 02:05:09.774: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-13T01:56:56.452Z
+2026-11-13 02:05:09.774: [INFO] OnDoneLoading sync enabled: 0
+2026-11-13 02:05:09.774: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-13 02:05:09.774: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-13 02:05:09.774: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-13 03:36:50.364: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-15 11:02:45.714: [INFO] CurrentProfilePath: C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-15 11:02:45.714: [INFO] Profiles total count: 1
+2026-11-15 11:02:45.714: [INFO] Profile: name=Profile 1 path=C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-13T01:56:56.452Z
+2026-11-15 11:02:45.714: [INFO] LastUsedProfileDir: C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-15 11:02:45.714: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-13T01:56:56.452Z
+2026-11-15 11:02:45.714: [INFO] OnDoneLoading sync enabled: 0
+2026-11-15 11:02:45.714: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-15 11:02:45.714: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-15 11:02:45.714: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-15 11:51:21.278: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-15 14:53:05.240: [INFO] CurrentProfilePath: C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-15 14:53:05.240: [INFO] Profiles total count: 1
+2026-11-15 14:53:05.240: [INFO] Profile: name=Profile 1 path=C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-15T11:51:20.938Z
+2026-11-15 14:53:05.240: [INFO] LastUsedProfileDir: C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-15 14:53:05.240: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-15T11:51:20.938Z
+2026-11-15 14:53:05.240: [INFO] OnDoneLoading sync enabled: 0
+2026-11-15 14:53:05.240: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-15 14:53:05.240: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-15 14:53:05.240: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-15 18:04:16.710: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-16 01:44:29.237: [INFO] CurrentProfilePath: C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-16 01:44:29.237: [INFO] Profiles total count: 1
+2026-11-16 01:44:29.237: [INFO] Profile: name=Profile 1 path=C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-15T11:51:20.938Z
+2026-11-16 01:44:29.237: [INFO] LastUsedProfileDir: C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-16 01:44:29.237: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-15T11:51:20.938Z
+2026-11-16 01:44:29.237: [INFO] OnDoneLoading sync enabled: 0
+2026-11-16 01:44:29.237: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-16 01:44:29.237: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-16 01:44:29.237: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-16 01:45:01.793: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-16 02:01:20.327: [INFO] CurrentProfilePath: C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-16 02:01:20.327: [INFO] Profiles total count: 1
+2026-11-16 02:01:20.327: [INFO] Profile: name=Profile 1 path=C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-16T01:45:01.455Z
+2026-11-16 02:01:20.327: [INFO] LastUsedProfileDir: C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-16 02:01:20.327: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-16T01:45:01.455Z
+2026-11-16 02:01:20.327: [INFO] OnDoneLoading sync enabled: 0
+2026-11-16 02:01:20.327: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-16 02:01:20.327: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-16 02:01:20.327: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-16 02:01:28.419: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-16 02:02:02.817: [INFO] CurrentProfilePath: C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-16 02:02:02.817: [INFO] Profiles total count: 1
+2026-11-16 02:02:02.817: [INFO] Profile: name=Profile 1 path=C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-16T01:45:01.455Z
+2026-11-16 02:02:02.817: [INFO] LastUsedProfileDir: C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-16 02:02:02.817: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Lenovo\Desktop\java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-16T01:45:01.455Z
+2026-11-16 02:02:02.817: [INFO] OnDoneLoading sync enabled: 0
+2026-11-16 02:02:02.817: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-16 02:02:02.817: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-16 02:02:02.817: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-16 03:35:20.853: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1

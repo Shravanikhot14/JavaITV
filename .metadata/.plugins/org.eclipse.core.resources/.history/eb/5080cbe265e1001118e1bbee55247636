@@ -1,0 +1,14 @@
+package oops;
+
+public class Calculator {
+	
+	int add(int a,int b)
+	{
+		return a+b;
+	}
+
+	int square(int s)
+	{
+		return s*s;
+	}
+}

@@ -1,0 +1,15 @@
+package oops;
+
+public class Example1 {
+	
+	public static void main(String[] args) {
+		
+		Flight f1= new Flight("F101", "Pune", "Mumbai",45, 10);
+		f1.printFlightDetails();
+		
+		Flight f2=new Flight("F102", "Delhi", "Mumbai", 75, 51);
+		f2.printFlightDetails();
+		
+	}
+
+}

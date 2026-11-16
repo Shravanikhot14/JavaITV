@@ -1,0 +1,16 @@
+package oops;
+
+public class Passenger {
+	
+	String name;
+	String email;
+	int age;
+
+	void printPassengerDetails()
+	{
+		System.out.println(name);
+		System.out.println(email);
+		System.out.println(age);
+		
+	}
+}

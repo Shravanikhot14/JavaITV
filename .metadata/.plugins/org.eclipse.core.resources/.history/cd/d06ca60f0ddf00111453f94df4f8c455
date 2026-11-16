@@ -1,0 +1,17 @@
+package oops;
+
+public class Example1 {
+	
+	public static void main(String[] args) {
+		
+		Flight f1= new Flight();
+		
+		f1.flightNumber="F101";
+		f1.destination="Mumbai";
+		f1.source="Delhi";
+		f1.totalSeats=70;
+		f1.availableSeats=35;
+		
+	}
+
+}

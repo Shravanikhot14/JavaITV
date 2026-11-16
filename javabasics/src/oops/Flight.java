@@ -1,0 +1,29 @@
+package oops;
+
+public class Flight {
+	
+	String flightNumber;
+	String destination;
+	String source;
+	int totalSeats;
+	int availableSeats;
+	
+	void printFlightDetails()
+	{
+		System.out.println(flightNumber);
+		System.out.println(destination);
+		System.out.println(source);
+		System.out.println(totalSeats);
+		System.out.println(availableSeats);
+	}
+	
+	Flight(String flightNumber, String destination, String source, int totalSeats, int availableSeats)
+	{
+		this.flightNumber=flightNumber;
+		this.destination=destination;
+		this.source=source;
+		this.totalSeats=totalSeats;
+		this.availableSeats=availableSeats;
+	}
+
+}
